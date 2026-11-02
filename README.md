@@ -4,6 +4,8 @@
 
 🔗 **نسخه‌ی زنده:** https://my-portfolio-roan-zeta-11.vercel.app
 
+![پیش‌نمایش پورتفولیو](public/screenshot.png)
+
 ## تکنولوژی‌ها
 - React + TypeScript
 - Tailwind CSS
