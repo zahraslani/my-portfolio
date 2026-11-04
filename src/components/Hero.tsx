@@ -23,7 +23,7 @@ export default function Hero() {
             مشاهده پروژه‌ها
           </a>
           <a
-            href="/zaresume.pdf"
+            href="/zaraslaniresume.pdf"
             download
             className="border-2 border-primary text-primary px-8 py-3 rounded-lg hover:bg-primary/10 transition-colors focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2"
           >
