@@ -10,6 +10,15 @@ interface Project {
 
 const projects: Project[] = [
   {
+    title: "سایت آب‌وهوا (React)",
+    description: "جستجوی شهر و نمایش دما، با React و TypeScript",
+    highlight: "جستجوی خودکار با debounce، حالت loading و خطا، و استایل کامل با Tailwind",
+    image: "/projects/weather-react.png",
+    tech: ["React", "TypeScript", "Tailwind CSS", "Vite"],
+    demo: "https://weather-react-amber.vercel.app",
+    code: "https://github.com/zahraslani/frontend-journey/tree/main/weather-react",
+  },
+  {
     title: "داشبورد مدیریت (Vue)",
     description: "داشبورد مدیریتی ریسپانسیو با نمودارهای تعاملی و جدول داده‌ها",
     highlight: "جدول داده با جستجو و صفحه‌بندی، و نمودار با Chart.js",
